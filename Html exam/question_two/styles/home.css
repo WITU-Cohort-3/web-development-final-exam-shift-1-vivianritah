@@ -1,0 +1,16 @@
+.links{
+    text-align: right;
+    font-size: 50px;
+    font-weight: bolder;
+
+}
+.meal{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    color: blue;
+    font-size: 50px;
+    padding: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
